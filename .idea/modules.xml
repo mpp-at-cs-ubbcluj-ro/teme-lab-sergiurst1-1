@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tema1.iml" filepath="$PROJECT_DIR$/Tema1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tema1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tema1.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tema1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tema1.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tema2.iml" filepath="$PROJECT_DIR$/Tema2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tema2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tema2.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tema2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tema2.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-sergiurst1-1.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-sergiurst1-1.iml" />
     </modules>
   </component>

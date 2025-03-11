@@ -2,13 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="org.example.Tema2" target="23" />
-      <module name="Tema1" target="17" />
-      <module name="Tema1.main" target="17" />
-      <module name="Tema1.test" target="17" />
-      <module name="Tema2" target="17" />
-      <module name="Tema2.main" target="17" />
-      <module name="Tema2.test" target="17" />
+      <module name="Tema3.1" target="17" />
+      <module name="Tema3.1.main" target="17" />
+      <module name="Tema3.1.test" target="17" />
+      <module name="Tema3.5" target="17" />
+      <module name="Tema3.5.main" target="17" />
+      <module name="Tema3.5.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
