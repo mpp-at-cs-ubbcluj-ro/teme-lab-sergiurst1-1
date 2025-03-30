@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Tema" target="17" />
+      <module name="Tema.main" target="17" />
+      <module name="Tema.test" target="17" />
+      <module name="Tema3.1" target="17" />
+      <module name="Tema3.1.main" target="17" />
+      <module name="Tema3.1.test" target="17" />
+      <module name="Tema3.5" target="17" />
+      <module name="Tema3.5.main" target="17" />
+      <module name="Tema3.5.test" target="17" />
+      <module name="Tema4SecondTry" target="17" />
+      <module name="Tema4SecondTry.main" target="17" />
+      <module name="Tema4SecondTry.test" target="17" />
+      <module name="Tema5" target="17" />
+      <module name="Tema5.main" target="17" />
+      <module name="Tema5.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
