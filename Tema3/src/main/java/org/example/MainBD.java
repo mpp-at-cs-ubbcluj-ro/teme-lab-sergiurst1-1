@@ -9,13 +9,13 @@ public class MainBD {
 
         Properties props=new Properties();
         try {
-            props.load(new FileReader("C:\\Facultate\\MPP\\teme-lab-sergiurst1-1\\Tema3\\bd.config"));
+            props.load(new FileReader("bd.config"));
         } catch (IOException e) {
             System.out.println("Cannot find bd.config "+e);
         }
 
         CarRepository carRepo=new CarsDBRepository(props);
-        carRepo.add(new Car("Tesla","Model S", 2019));
+        carRepo.add(new Car("Toyota","Corolla", 2019));
         System.out.println("Toate masinile din db");
         for(Car car:carRepo.findAll())
             System.out.println(car);

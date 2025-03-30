@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Tema" />
     <file type="web" url="file://$PROJECT_DIR$/Tema1" />
     <file type="web" url="file://$PROJECT_DIR$/Tema2" />
     <file type="web" url="file://$PROJECT_DIR$/Tema3" />
     <file type="web" url="file://$PROJECT_DIR$/Tema3.1" />
     <file type="web" url="file://$PROJECT_DIR$/Tema3.5" />
+    <file type="web" url="file://$PROJECT_DIR$/Tema4" />
+    <file type="web" url="file://$PROJECT_DIR$/Tema5" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
